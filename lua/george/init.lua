@@ -1,2 +1,2 @@
-require("george.remap")
 require("george.set")
+require("george.remap")
